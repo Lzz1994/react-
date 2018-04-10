@@ -22,8 +22,8 @@ class App extends Component {
             Route path = "/login"
             component = { Login }
             /> <
-            Route component = { NotFound } > < /Route> <
-            /Switch> <
+            Route component = { NotFound } > < /Route>  < /
+            Switch > <
             /Layout>
         )
     }

@@ -1,8 +1,8 @@
 import React, { Component } from 'react'
 
-class userCnter extends Component {
+class Home extends Component {
     render() {
         return ()
     }
 }
-export default userCenter
+export default Home
